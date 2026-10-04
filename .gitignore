@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment variables & API keys
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Editor & OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Archives & Scratch files
+*.zip
+*.resolved
